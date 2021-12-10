@@ -13929,13 +13929,13 @@ body.compensate-for-scrollbar {
 }
 body {
      font-family: Quicksand, sans-serif;
-     color: #777;
+     color: #686868;
      min-height: 100vh;
      overflow-x: hidden;
      display: -webkit-box;
      display: -ms-flexbox;
      display: flex;
-     font-size: 16px;
+     font-size: 1.3em;
      font-weight: 500;
      line-height: 1.7;
 }
